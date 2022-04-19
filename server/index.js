@@ -9,7 +9,7 @@ const db = require('./models');
 
 // Déclaration des routes
 const authRouter = require("./routes/auth");
-app.use('api/auth', authRouter);
+app.use('/auth', authRouter);
 
 db.sequelize.sync().then(() => {
     app.listen(3001, () => {

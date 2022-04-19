@@ -9,7 +9,7 @@ function App() {
   const handleLogin = (event) => {
     event.preventDefault();
     const data = { username: username }
-    axios.post("http://localhost:3001/auth", data).then((response) => {
+    axios.post("http://localhost:3001/auth/login", data).then((response) => {
       console.log(response.data);
     });
   };
