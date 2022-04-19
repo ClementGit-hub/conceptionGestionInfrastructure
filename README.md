@@ -23,7 +23,7 @@ npm install
 npm start
 ```
 
-## Manuel utilisateur pour l'authentification
+## Documents
 Shéma de l'architecture
 
 ![My animated logo](https://github.com/ClementGit-hub/conceptionGestionInfrastructure/blob/master/assets/Architecture_MSPR2.jpg)
