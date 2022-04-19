@@ -26,7 +26,7 @@ npm start
 ## Manuel utilisateur pour l'authentification
 Shéma de l'architecture
 
-![My animated logo](assets\Architecture_MSPR2.jpg)
+![My animated logo](https://github.com/ClementGit-hub/conceptionGestionInfrastructure/blob/master/assets/Architecture_MSPR2.jpg)
 
 Guide de l'utilisateur
 
@@ -34,4 +34,4 @@ Guide de l'utilisateur
 
 Processus d'authentification
 
-![My animated logo](assets\FlowChart_MSPR2.drawio.png)
+![My animated logo](https://github.com/ClementGit-hub/conceptionGestionInfrastructure/blob/master/assets/FlowChart_MSPR2.drawio.png)
