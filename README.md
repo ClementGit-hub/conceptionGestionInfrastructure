@@ -24,8 +24,14 @@ npm start
 ```
 
 ## Manuel utilisateur pour l'authentification
-Shéma de l'authentification
+Shéma de l'architecture
+
+![My animated logo](assets\Architecture_MSPR2.jpg)
 
 Guide de l'utilisateur
 
+
+
 Processus d'authentification
+
+![My animated logo](assets\FlowChart_MSPR2.drawio.png)
