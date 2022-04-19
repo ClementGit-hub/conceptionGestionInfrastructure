@@ -32,7 +32,7 @@ Guide de l'utilisateur
 > L'authentification à deux facteurs ajoute une couche supplémentaire de sécurité à aux comptes des utilisateurs. En vérifiant l’identité des utilisateurs à l'aide 
 > d'un second facteur, il est plus difficile qu’un tierce ce connecte à votre compte même en sachant le nom d’utilisateur et le mot de passe de l’utilisateur.
 
-![My animated logo](https://github.com/ClementGit-hub/conceptionGestionInfrastructure/blob/master/assets/unknown.jpg)
+> ![My animated logo](https://github.com/ClementGit-hub/conceptionGestionInfrastructure/blob/master/assets/unknown.jpg)
 
 > 1. L’utilisateur saisi son nom d'utilisateur et son mot de passe sur son ordinateur.
 > 2. L’utilisateur reçoit un message avec un mot de passe à sa boite mail pour valider son identité.
