@@ -18,9 +18,9 @@ Le portail nécessite [Node.js](https://nodejs.org/) pour fonctionner.
 Installer les dépendance et lancer le serveur:
 
 ```sh
-cd conceptionGestionInfrastructure
-npm install
-npm start
+Créer une database "mspr2" dans SQL Workbench en localhost
+Dans le fichier config.json du dossier server, ajouter le nom d'utilisateur et le mot de passe de votre database
+npm install et npm start dans les dossiers client et server
 ```
 
 ## Documents
